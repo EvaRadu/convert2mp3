@@ -1,6 +1,6 @@
 ### Requirements  
 
-#### Ubunutu :
+#### Ubuntu :
 
 ```
 pip3 install youtube-dl
